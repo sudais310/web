@@ -1,0 +1,90 @@
+.fs-custom{
+    font-size: 15px;
+}
+.h-nav-1{
+    height: 50px;
+}
+#logo{
+    width: 300px;
+}
+.bg-1{
+    background-image: url(/img/carousal\ 1.jpg);
+}
+.p-img{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.h-img{
+    height: 700px;
+}
+.bg-about{
+    background-image: url(./img/about\ bg.jpg);
+    background-size: cover;
+    background-position: top ;
+}
+.bg-services{
+    background-image: url(./img/services_home3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+}
+ .fs-icons{
+    font-size: 50px;
+}   
+ .fs-icons :hover{
+color: grey;
+}   
+.bg-experience{
+    background-image: url(./img/call-to-action.jpg);
+}
+.bg-numbers{
+    background-image: url(./img/dark-mosaic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.number-col{
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+    grid-gap: 10px;
+}
+.bg-team{
+    background-image: url(./img/team-bg.jpg);
+}
+.w-social{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bg-testomonials{
+    background-image: url(./img/testimonials_bg.jpg);
+}
+.form-scale{
+    transform: scale(1.2);
+    box-shadow:10px 10px 10px black;
+}
+.w-testomonials{
+    width: 100px;
+   height: 100px;
+}
+.bg-footer{
+    background-image: url(./img/footer-bg.jpg);
+}    
+.w-social-footer{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(34, 57, 99)!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.text-primary{
+    color: rgb(40, 64, 109)!important;
+}  
+.bg-primary{
+    background-color: rgb(40, 64, 109)!important;
+}  
+    
